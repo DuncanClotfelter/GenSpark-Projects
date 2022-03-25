@@ -4,6 +4,8 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/DragonCave/DragonCave.iml" filepath="$PROJECT_DIR$/DragonCave/DragonCave.iml" />
       <module fileurl="file://$PROJECT_DIR$/GenSpark-Projects.iml" filepath="$PROJECT_DIR$/GenSpark-Projects.iml" />
+      <module fileurl="file://$PROJECT_DIR$/GuessTheNumber/GuessTheNumber.iml" filepath="$PROJECT_DIR$/GuessTheNumber/GuessTheNumber.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Hangman/Hangman.iml" filepath="$PROJECT_DIR$/Hangman/Hangman.iml" />
     </modules>
   </component>
 </project>

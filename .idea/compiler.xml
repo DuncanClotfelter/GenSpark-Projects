@@ -7,10 +7,16 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="GenSpark-Projects" />
+        <module name="GuessTheNumber" />
+        <module name="Hangman" />
+        <module name="DragonCave" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
+      <module name="DragonCave" target="17" />
       <module name="GenSpark-Projects" target="17" />
+      <module name="GuessTheNumber" target="17" />
+      <module name="Hangman" target="9" />
     </bytecodeTargetLevel>
   </component>
 </project>
